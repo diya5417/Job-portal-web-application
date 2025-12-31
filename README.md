@@ -1,1 +1,1 @@
-# job-portal-master
+# job-portal-web-application
